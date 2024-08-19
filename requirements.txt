@@ -1,5 +1,0 @@
-requests
-azure-mgmt-billing
-azure-mgmt-consumption
-azure-identity
-azure-mgmt-costmanagement
